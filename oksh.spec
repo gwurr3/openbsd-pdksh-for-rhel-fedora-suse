@@ -6,7 +6,7 @@ Summary:        OpenBSD KSH for RHEL 6
 Group:          Applications/Shells
 License:        BSD
 URL:            http://www.connochaetos.org/oksh/
-Distribution:   chstuff
+Distribution:   gwurr3
 Vendor:         gwurr3
 Packager:       Glenn Wurr III <glenn@wurr.net>
 Source0:        http://www.connochaetos.org/oksh/oksh-0.5.0.tar.gz
